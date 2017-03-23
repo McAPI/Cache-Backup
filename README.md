@@ -1,8 +1,7 @@
 # Cache-Backup
-A repository to keep a cache backup available and usable for everybody. - It contains
-backup of the cached created by McAPI's back-end. This cache provides thousands of
-thousands of users. This helps a lot by keeping the load onto the application in
-check.
+A repository to keep a cache backup available and usable for everybody. - It contains a
+backup of the cach created by McAPI's back-end. This cache provides hundreds of thousands 
+of users. 
 
 The data can be used by everybody, however giving credit with an easily accessible
 link to https://mcapi.de, https://github.com/sweetcode or https://github.com/mcapi
